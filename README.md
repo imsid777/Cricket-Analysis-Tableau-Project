@@ -2,7 +2,7 @@
 
 # Cricket Tableau Project
 
-This Repository contains the Cricket Analysis Tableau Project based on the Stats/Records.
+This Repository contains the All Time Indian Cricket Analysis Tableau Project based on the Stats/Records.
 
 Visit my Tableau Public Profile for more Visualizations:
 [Link](https://public.tableau.com/profile/imsid777#!/)
